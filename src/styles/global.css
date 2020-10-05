@@ -11402,6 +11402,11 @@ nav ul li a {
     text-transform: uppercase;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    cursor: pointer;
+}
+
+nav a:hover {
+    color: #b8a07e !important;
 }
 
 .logo {
@@ -11453,6 +11458,18 @@ nav ul li a {
 @media(min-width: 1200px) {
     #header, #header .header-content {
         height: 600px;
+    }
+}
+
+@media(min-width: 1440px) {
+    #header, #header .header-content {
+        height: 800px;
+    }
+}
+
+@media(min-width: 1700px) {
+    #header, #header .header-content {
+        height: 900px;
     }
 }
 

@@ -131,7 +131,11 @@ export default function Home() {
 
     const handleClick = async (link) => {
         await navigate(link);
-        $('.nav-menu').slideToggle();
+        if (typeof  window !== 'undefined') {
+            if (window.innerWidth < 768) {
+                $('.nav-menu').slideToggle();
+            }
+        }
     }
 
     return (
