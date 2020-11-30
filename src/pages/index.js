@@ -376,7 +376,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">February 2020</p>
+                                <p className="text-white mb-0">2020</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     HANS C. REINEMER, DDS MS
                                 </p>
@@ -418,7 +418,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">November 2019</p>
+                                <p className="text-white mb-0">2019</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     RYAN EDMUNDS, DDS MS
                                 </p>
@@ -459,7 +459,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">October 2019</p>
+                                <p className="text-white mb-0">2019</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     2ND ANNUAL LYNN G. POWELL MEMORIAL LECTURE
                                 </p>
@@ -500,7 +500,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">October 2019</p>
+                                <p className="text-white mb-0">2019</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     TOTAL PATIENT SERVICE INSTITUTE: TOTAL IMMERSION EXPERIENCE
                                 </p>
@@ -542,7 +542,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">April 2019</p>
+                                <p className="text-white mb-0">2019</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     BREAKAWAY PRACTICE: BUSINESS MASTERS
                                 </p>
@@ -583,7 +583,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">March 2019</p>
+                                <p className="text-white mb-0">2019</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     DENTAL SUCCESS INSTITUTE: DENTAL SUCCESS SUMMIT
                                 </p>
@@ -625,7 +625,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="col-12 col-md-4 col-lg-2">
-                                <p className="text-white mb-0">June 2018</p>
+                                <p className="text-white mb-0">2018</p>
                                 <p className="text-uppercase text-info-light h4 mt-0 text-serif">
                                     BREAKAWAY PRACTICE: ADVANCED STARTUP
                                 </p>
@@ -677,7 +677,7 @@ export default function Home() {
                                     </g>
                                 </svg>
                             </div>
-                            <p className="text-white h5 mb-0">August 2017 - May 2021</p>
+                            <p className="text-white h5 mb-0">2017 - 2021</p>
                             <p className="h4 text-info-light text-serif mt-1">
                                 DDS, UNIVERSITY OF UTAH SCHOOL OF DENTISTRY
                             </p>
@@ -706,7 +706,7 @@ export default function Home() {
                                     </g>
                                 </svg>
                             </div>
-                            <p className="text-white h5 mb-0">January 2020 - January 2021</p>
+                            <p className="text-white h5 mb-0">2020</p>
                             <p className="h4 text-info-light text-serif mt-1">
                                 MBA, WESTERN GOVERNORS UNIVERSITY
                             </p>
@@ -735,7 +735,7 @@ export default function Home() {
                                     </g>
                                 </svg>
                             </div>
-                            <p className="text-white h5 mb-0">April 2014 - April 2017</p>
+                            <p className="text-white h5 mb-0">2014 - 2017</p>
                             <p className="h4 text-info-light text-serif mt-1">
                                 BS, BRIGHAM YOUNG UNIVERSITY - IDAHO
                             </p>
