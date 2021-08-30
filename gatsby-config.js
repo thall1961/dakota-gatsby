@@ -69,17 +69,6 @@ module.exports = {
                 // purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
             }
         },
-        {
-            resolve: `gatsby-plugin-manifest`,
-            options: {
-                name: `Dakota Argyle`,
-                short_name: `DakotaArgyle`,
-                start_url: `/`,
-                background_color: `#ffffff`,
-                theme_color: `#008DB9`,
-                display: `standalone`
-            }
-        },
         `gatsby-plugin-offline`,
         `gatsby-plugin-netlify`
     ]
